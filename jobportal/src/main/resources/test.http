@@ -1,8 +1,0 @@
-//POST http://localhost:8080/api/vacancies
-//Content-Type: application/json
-
-//{
- // "title": "Java Developer",
- // "description": "Нужно писать крутой код на Spring Boot 4",
- // "salary": 150000
-//}
